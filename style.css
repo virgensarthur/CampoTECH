@@ -1,3 +1,4 @@
+/* Basic reset */
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@
   }
   
   header {
-    background-color: #008080; /* Teal color */
+    background-color: #6AB8B3; /* Updated color */
   }
   
   nav ul {
@@ -42,3 +43,4 @@
   .imagem {
     width: 50%;
   }
+  
