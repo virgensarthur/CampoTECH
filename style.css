@@ -16,11 +16,24 @@ body {
     margin: 0;
     padding: 0;
 }
-.main {
-    display: flex;
-    justify-content: space-around;
+.subtitle {
+    color: teal;
+    text-align: center;
     margin-top: 20px;
 }
-.textos, .imagem {
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.textos {
     width: 45%;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+}
+.imagem {
+    width: 45%;
+    background-color: darkgrey;
+    height: 200px; /* Ajuste a altura conforme necessário */
 }
