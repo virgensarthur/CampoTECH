@@ -71,3 +71,7 @@ main {
     border-radius: 20px;
     color: black;
 }
+
+.texto {
+    font-family: 'Bebas Neue', cursive;
+}
