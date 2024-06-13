@@ -1,4 +1,3 @@
-/* Basic reset */
 * {
     margin: 0;
     padding: 0;
@@ -6,10 +5,11 @@
   
   body {
     font-family: Arial, sans-serif;
+    background-color: #6AB8B3; /* Updated color */
   }
   
   header {
-    background-color: #6AB8B3; /* Updated color */
+    background-color: #008080; /* Teal color */
   }
   
   nav ul {
@@ -43,4 +43,3 @@
   .imagem {
     width: 50%;
   }
-  
