@@ -40,7 +40,7 @@ main {
     margin-top: 20px;
 }
 
-#text, #image {
+#text, .image {
     width: 45%;
 }
 
@@ -48,7 +48,7 @@ main {
     text-align: justify;
 }
 
-#image {
+.image {
     text-align: center;
     background-color: #ddd;
     padding: 20px;
