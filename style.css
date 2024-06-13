@@ -70,6 +70,7 @@ main {
     padding: 15px;
     border-radius: 20px;
     color: black;
+    font-size: 50px;
 }
 
 .texto {
@@ -87,8 +88,9 @@ main {
     padding: 15px;
     border-radius: 20px;
     color: black;
+    font-size: 50px;
 }
 
 .sc {
-    
+    font-size: 50px;
 }
