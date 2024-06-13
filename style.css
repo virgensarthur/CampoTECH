@@ -34,6 +34,6 @@ body {
 }
 .imagem {
     width: 45%;
-    background-color: darkgrey;
+    background-color: teal;
     height: 200px; /* Ajuste a altura conforme necessário */
 }
