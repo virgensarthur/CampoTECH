@@ -1,7 +1,8 @@
 body {
     background-color: white;
-    font-family: 'Bebas Neue', cursive;
-}
+        font-family: 'Bebas Neue', cursive;
+        font-weight: normal;
+      }
 
 header {
     background-color: #6AB8B3;
