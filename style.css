@@ -4,8 +4,8 @@ body {
     background-color: white;
 }
 .header {
-    background-color: teal;
-    padding: 10px;
+    background-color: #008080; /* dark teal */
+    padding: 20px;
     color: white;
     text-align: center;
 }
@@ -17,23 +17,24 @@ body {
     padding: 0;
 }
 .subtitle {
-    color: teal;
-    text-align: center;
+    color: #008080; /* dark teal */
+    text-align: left;
     margin-top: 20px;
+    font-weight: bold;
 }
 .main {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
+    background-color: #40E0D0; /* light teal */
+    padding: 20px;
 }
 .textos {
     width: 45%;
-    background-color: teal;
-    color: white;
-    padding: 10px;
+    color: black;
 }
 .imagem {
     width: 45%;
-    background-color: teal;
-    height: 200px; /* Ajuste a altura conforme necessário */
+    background-color: #A9A9A9; /* placeholder for an image */
+    height: 200px; /* adjust as needed */
 }
