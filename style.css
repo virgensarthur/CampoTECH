@@ -4,7 +4,7 @@ body {
     background-color: white;
 }
 .header {
-    background-color: teal;
+    background-color: #6AB8B3;
     color: white;
     text-align: center;
 }
@@ -16,7 +16,7 @@ body {
     padding: 0;
 }
 .subtitle {
-    color: teal;
+    color: #6AB8B3;
     text-align: left;
     margin-top: 20px;
     font-weight: bold;
@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-    background-color: teal;
+    background-color: #6AB8B3;
     padding: 20px;
 }
 .textos {
