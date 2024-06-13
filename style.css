@@ -79,3 +79,16 @@ main {
 .tec {
     margin-left: 20px;
 }
+
+.contato {
+    margin: 0px;
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+    color: black;
+}
+
+.sc {
+    
+}
