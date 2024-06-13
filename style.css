@@ -49,10 +49,11 @@ main {
 }
 
 .image {
-    text-align: center;
-    background-color: #ddd;
+    position: absolute;
+    right: 40px;
+    top: 225px;
     padding: 20px;
-    border-radius: 10px;
+}
 }
 #title {
     margin-bottom: 20px;
