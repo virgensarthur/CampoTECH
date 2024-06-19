@@ -128,8 +128,6 @@ main {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: grid;
     grid-template-columns: 50% 50%;
-    justify-content: center;
-    justify-items: center;
 }
 
 #criadores p {
