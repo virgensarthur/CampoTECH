@@ -111,3 +111,20 @@ main {
     color: white;
 }
 
+#criadores {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#criadores p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+#criadores img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
