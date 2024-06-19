@@ -111,12 +111,26 @@ main {
     color: white;
 }
 
+#criadores2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    justify-items: center;
+}
+
 #criadores {
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    justify-items: center;
 }
 
 #criadores p {
