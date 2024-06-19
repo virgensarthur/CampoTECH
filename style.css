@@ -124,7 +124,7 @@ main {
 }
 
 #criadores img {
-    max-width: 100%;
+    max-width: 30%;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
