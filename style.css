@@ -95,3 +95,7 @@ main {
 .sc {
     font-size: 50px;
 }
+
+.menu-link a {
+    text-decoration: none;
+}
