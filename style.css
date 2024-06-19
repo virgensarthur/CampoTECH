@@ -116,14 +116,17 @@ main {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
 }
 
-#criadores p {
-    font-size: 16px;
-    margin: 10px 0;
+.criador {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
 }
 
-#criadores img {
+.criador img {
     max-width: 30%;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
