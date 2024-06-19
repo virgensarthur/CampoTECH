@@ -140,3 +140,7 @@ main {
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+#contato {
+    background-color: #6AB8B3;
+}
