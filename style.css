@@ -96,6 +96,6 @@ main {
     font-size: 50px;
 }
 
-.menu-link a {
+.menu-link .sc .contato a {
     text-decoration: none;
 }
