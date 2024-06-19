@@ -72,7 +72,6 @@ main {
     border-radius: 20px;
     color: black;
     font-size: 50px;
-    text-decoration: none;
 }
 
 .texto {
@@ -95,4 +94,9 @@ main {
 
 .sc {
     font-size: 50px;
+}
+
+.campotech a {
+    text-decoration: none;
+    color: black;
 }
