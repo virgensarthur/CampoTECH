@@ -116,6 +116,7 @@ main {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: grid;
 }
 
 #criadores p {
@@ -127,5 +128,4 @@ main {
     max-width: 30%;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    display: grid;
 }
