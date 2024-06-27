@@ -144,3 +144,10 @@ main {
 #contato {
     background-color: #6AB8B3;
 }
+
+footer {
+    background-color: #6AB8B3;
+    color: white; /* Cor do texto no rodapé */
+    padding: 20px; /* Espaçamento interno para melhor visualização */
+    text-align: center; /* Centralize o conteúdo do rodapé */
+  }
